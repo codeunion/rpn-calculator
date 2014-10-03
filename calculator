@@ -19,6 +19,7 @@ loop do
 
   case input
   when "exit"
+    puts "Bye bye!"
     exit
   else
     begin

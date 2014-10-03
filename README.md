@@ -13,6 +13,7 @@ rpn> 2 3 -
 rpn> 5 4 * 3 + 2 *
 46
 rpn> exit
+Bye bye!
 $
 ```
 
