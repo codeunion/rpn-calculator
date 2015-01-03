@@ -56,3 +56,11 @@ To parse and evaluate an RPN expression, then, you'll need to do a few things:
 3. If the current token is a number, what should you do?
 4. If the current token is an operator, what should you do?
 5. When you've iterated through all the tokens, what should you do?
+
+
+#### Topics Covered
+ * Data Structures
+ * Algorithms
+ * Language Design
+ * Tokenization
+ * Parsing
